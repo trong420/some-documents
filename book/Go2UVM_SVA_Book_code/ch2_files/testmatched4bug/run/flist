@@ -1,0 +1,12 @@
++incdir+$VW_GO2UVM_HOME/
+$VW_GO2UVM_HOME/src/vw_go2uvm_pkg.sv
+
+
+
+
+
+../dut/testmatched4bug.sv
+// ../tb/testmatched4bug.sv
+../go2uvm/testmatched_go2uvm.sv
+
+

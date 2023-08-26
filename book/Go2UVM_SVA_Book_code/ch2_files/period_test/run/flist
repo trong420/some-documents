@@ -1,0 +1,8 @@
++incdir+$VW_GO2UVM_HOME/
+$VW_GO2UVM_HOME/src/vw_go2uvm_pkg.sv
+
+
+../dut/period_test.sv
+../go2uvm/m_go2uvm.sv
+
+

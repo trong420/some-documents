@@ -1,0 +1,9 @@
++incdir+$VW_GO2UVM_HOME/
+$VW_GO2UVM_HOME/src/vw_go2uvm_pkg.sv
+
+
+
+../dut/seq_trigger.sv
+../go2uvm/seq_trigger_go2uvm.sv
+
+
